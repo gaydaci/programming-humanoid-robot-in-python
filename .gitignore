@@ -53,3 +53,5 @@ docs/_build/
 # PyBuilder
 target/
 .ipynb_checkpoints
+
+software_installation/python_basic.ipynb
